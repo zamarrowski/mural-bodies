@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+h1 {
+  font-family: 'Amatic SC', cursive;
+}
+
+.smallPopup {
+  min-width: 250px;
+}
+
+.mediumPopup {
+  min-width: 400px;
+}
+
+.bigPopup {
+  min-width: 500px;
+}
+
+.popup {
+  float: left;
+}
+
+.popup * {
+  text-align: center;
+}
